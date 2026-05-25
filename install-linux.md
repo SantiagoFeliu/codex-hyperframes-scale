@@ -24,3 +24,10 @@ hyperframes-registry
 lottie
 three
 tailwind
+
+Additional folders found during real installation:
+
+hyperframes-registry
+lottie
+three
+tailwind

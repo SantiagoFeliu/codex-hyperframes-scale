@@ -1,2 +1,14 @@
-# codex-hyperframes-scale
-Linux guide to install HyperFrames Skills in Codex using terminal only. Step-by-step setup, validation, GSAP, website-to-hyperframes and render workflow.
+# Codex HyperFrames Scale
+
+Linux terminal-only guide to install HyperFrames Skills in Codex.
+
+Includes:
+
+- HyperFrames skills installation
+- GSAP
+- website-to-hyperframes
+- validation
+- render workflow
+- troubleshooting
+
+Built from real Linux testing and validated commands.
